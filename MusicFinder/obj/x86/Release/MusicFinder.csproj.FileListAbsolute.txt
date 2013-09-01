@@ -1,0 +1,11 @@
+D:\Study\MusicFinder\MusicFinder\bin\Release\MusicFinder.exe
+D:\Study\MusicFinder\MusicFinder\bin\Release\MusicFinder.pdb
+D:\Study\MusicFinder\MusicFinder\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Study\MusicFinder\MusicFinder\obj\x86\Release\MusicFinder.MainForm.resources
+D:\Study\MusicFinder\MusicFinder\obj\x86\Release\MusicFinder.Properties.Resources.resources
+D:\Study\MusicFinder\MusicFinder\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\Study\MusicFinder\MusicFinder\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\Study\MusicFinder\MusicFinder\obj\x86\Release\MusicFinder.exe
+D:\Study\MusicFinder\MusicFinder\obj\x86\Release\MusicFinder.pdb
+D:\Study\MusicFinder\MusicFinder\obj\x86\Release\MusicFinder.MusicForm.resources
+D:\Study\MusicFinder\MusicFinder\bin\Release\MusicFinder.exe.config
